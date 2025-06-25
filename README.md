@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Simo Salhi
 
-<!--
-**SALHI-1/SALHI-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ FST Tanger  
+💻 Focused on Intelligent Systems & Full Stack Development  
+📚 Currently Learning: Symfony, Angular, and AI Tools  
+🚀 Passionate about Game Development with Unity
 
-Here are some ideas to get you started:
+## 🧰 Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoSalhi&show_icons=true&theme=radical)
+
+## 📫 Contact
+- 💌 Email: simo@example.com
+- 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
