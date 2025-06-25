@@ -5,6 +5,8 @@
 📚 Currently Learning: Symfony, Angular, and AI Tools  
 🚀 Passionate about Game Development , and Full stuck Devoloppement
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N4Y25rM3QxY3d0M2g0ZDBkNzBseXhsajI1ZGJwZzlzOXRxbTFjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif
+
 ## 🧰 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
