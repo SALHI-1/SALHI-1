@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Passionate Software Engineering Student @ FST Tanger</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtwNHpoeWhkeXVqczQwenpxdWRmZjk4Z25rcmM5aHZ0MHh4c3BudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="450" alt="Coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtwNHpoeWhkeXVqczQwenpxdWRmZjk4Z25rcmM5aHZ0MHh4c3BudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="250" alt="Coding animation" />
 </p>
 
 ---
