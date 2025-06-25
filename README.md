@@ -71,7 +71,7 @@
   </div>
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoSalhi&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SALHI-1&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - 💌 Email: simo@example.com
