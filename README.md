@@ -68,8 +68,9 @@
 
 ### 📫 Contact Me
 
-- 💌 Email: **mohammedsalhisam@gmail.com**  
-- 🔗 LinkedIn: [YourLinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-salhi-959853330/))
+- 💌 Email: **mohammedsalhisam@gmail.com**
+- 💌 Email: [mohammedsalhisam@gmail.com](mailto:mohammedsalhisam@gmail.com?subject=Collaboration%20with%20Mohammed%20SALHI%20via%20GitHub)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/mohammed-salhi-959853330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
