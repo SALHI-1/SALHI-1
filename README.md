@@ -11,12 +11,15 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Student in Software Engineering** at **FST Tanger**
-- 💡 Focused on **Intelligent Systems** and **Full Stack Web Development**
-- 🧠 Currently exploring **Symfony**, **Angular**, and **AI Tools**
-- 🎮 I also love working on **game development projects** with Unity
-- 🛠️ Constantly building, breaking and learning.
+I'm a passionate Software Engineering student at FST Tanger, where I’m building a strong foundation in computer science, algorithms, and systems design. My academic path is guided by a deep curiosity about how technology can solve real-world problems.
 
+Currently, I'm focusing on Intelligent Systems and Full Stack Web Development. I enjoy combining the power of backend logic with intuitive frontend design to create responsive and dynamic web applications.
+
+I'm also diving into modern technologies like Symfony, Angular, and AI tools—always looking for ways to expand my tech stack and improve my problem-solving skills.
+
+Beyond web development, I have a genuine passion for game development with Unity, where creativity meets logic in exciting and interactive ways.
+
+Whether it's working on solo projects, collaborating with teams, or learning new frameworks, I'm driven by a simple mindset: build, break, learn, and repeat.
 ---
 
 ### 🛠️ Technologies & Tools
