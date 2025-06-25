@@ -68,8 +68,8 @@
 
 ### 📫 Contact Me
 
-- 💌 Email: **simo@example.com**  
-- 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
+- 💌 Email: **mohammedsalhisam@gmail.com**  
+- 🔗 LinkedIn: [YourLinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-salhi-959853330/))
 
 ---
 
