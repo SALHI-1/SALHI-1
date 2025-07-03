@@ -3,8 +3,9 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#1abc9c">Mohammed SALHI</span></h1>
 <h3 align="center">🚀 Passionate Software Engineering Student @ FST Tanger</h3>
 
-![coding](https://i.imgur.com/hyvwxoZ.gif)
-
+<p align="center">
+  <img src="https://i.imgur.com/hyvwxoZ.gif" alt="coding" width="400" style="border: 2px solid #1abc9c; border-radius: 10px;" />
+</p>
 ---
 
 ### 👨‍💻 About Me
