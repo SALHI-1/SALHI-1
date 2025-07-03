@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#1abc9c">Mohammed SALHI</span></h1>
 <h3 align="center">🚀 Passionate Software Engineering Student @ FST Tanger</h3>
 
-<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![coding](https://tenor.com/fr/view/coding-gif-24297652)
 
 ---
 
