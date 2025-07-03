@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#1abc9c">Mohammed SALHI</span></h1>
 <h3 align="center">🚀 Passionate Software Engineering Student @ FST Tanger</h3>
 
-![coding](https://tenor.com/fr/view/coding-gif-24297652)
+![coding](https://imgur.com/hyvwxoZ)
 
 ---
 
