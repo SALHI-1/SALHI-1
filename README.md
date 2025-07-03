@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://i.imgur.com/hyvwxoZ.gif" alt="coding" width="400" style="border: 2px solid #1abc9c; border-radius: 10px;" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
