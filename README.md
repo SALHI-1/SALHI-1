@@ -72,7 +72,7 @@ Whether it's personal projects, team collaborations, or experimenting with new f
 
 ### 📫 Contact Me
 
-- 💌 Email: [mohammedsalhisam@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mohammedsalhisam@gmail.com&su=Collaboration%20with%20Mohammed%20SALHI%20via%20GitHub)
+- 💌 Email: [mohammedsalhisim@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mohammedsalhisam@gmail.com&su=Collaboration%20with%20Mohammed%20SALHI%20via%20GitHub)
 - 🔗 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/mohammed-salhi-959853330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
